@@ -8,7 +8,7 @@ Description
 ===============================
 
 Reproduced a PDF-image into static webpage with HTML and CSS.
-To se the image reproduced/i started from, uncomment the div on line 46-50
+To se the image reproduced/i started from, uncomment the div on line 48-52.
 
 To view the project, check out the repository and inspect the code.
 
